@@ -118,9 +118,14 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 .main{
   padding-top: 50px;
   max-width: 1020px;
+  opacity: 0.9
 }
 .wrapper{
   margin: 0 auto;
+}
+
+#profession {
+  color: white;
 }
 
 
